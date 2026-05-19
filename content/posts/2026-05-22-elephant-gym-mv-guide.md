@@ -15,9 +15,9 @@ categories:
   - 推薦
 description: "從大象體操官方網站精選五支 MV，每支都有不同的視覺風格跟音樂面向，附上背景故事與聽後感。"
 cover:
-  image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Elephant_Gym_04.jpg/960px-Elephant_Gym_04.jpg"
-  alt: "張凱婷演奏貝斯"
-  caption: "張凱婷演奏 | 攝影：David Lee | CC BY 2.0 via Wikimedia Commons"
+  image: ""
+  alt: ""
+  caption: ""
 ---
 
 ## 前言
@@ -137,7 +137,5 @@ MV 的視覺風格跟音樂完美契合：水的意象貫穿全片，畫面在�
 如果看完之後想聽更多，推薦直接去 [Bandcamp](https://elephant-gym.bandcamp.com/) 或 [Spotify](https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g) 把他們的專輯從頭聽到尾。
 
 ---
-
-*封面照片由攝影師 [David Lee](https://www.flickr.com/photos/davidjlee/) 拍攝，授權條款為 [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)，取自 [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Elephant_Gym)。*
 
 *參考資料：[NME](https://www.nme.com/news/music/watch-elephant-gyms-elaborate-music-video-for-new-macbeth-inspired-song-witches-3218842)、[No Treble](https://www.notreble.com/buzz/2018/08/21/elephant-gym-finger-and-midway/)、[Top Shelf Records](https://www.topshelfrecords.com/catalog/201)、[Math Rock Times](https://www.mathrocktimes.com/single-post/2019/01/09/elephant-gym-underwater)、[Bandwagon Asia](https://www.bandwagon.asia/articles/elephant-gym-interview-singapore-topshelf)*

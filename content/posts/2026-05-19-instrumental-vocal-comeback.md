@@ -18,9 +18,9 @@ categories:
   - 演出資訊
 description: "大象體操休團一年半後正式復團！首場演出以《Instrumental / Vocal》雙專場形式登場，台北高雄四場完整資訊整理。"
 cover:
-  image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Elephant_Gym_02.jpg/1280px-Elephant_Gym_02.jpg"
-  alt: "大象體操演出現場"
-  caption: "大象體操演出 | 攝影：David Lee | CC BY 2.0 via Wikimedia Commons"
+  image: ""
+  alt: ""
+  caption: ""
 ---
 
 ## 他們回來了
@@ -28,8 +28,6 @@ cover:
 休團一年半，大象體操終於宣布復團，而且一回來就是一個讓人興奮的企劃——《Instrumental / Vocal》器樂＋人聲雙專場。
 
 這個概念很聰明：把樂團一直以來並行的兩種創作面向拆開，分成兩個不同的夜晚呈現。一邊是純粹讓節奏跟音色推進情緒的「器樂場」，另一邊是讓旋律與歌聲成為核心的「人聲場」。同一個大象體操，兩份完全不同的歌單。
-
-![大象體操全團演出](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Elephant_Gym_01.jpg/1280px-Elephant_Gym_01.jpg "大象體操演出 | 攝影：David Lee | CC BY 2.0 via Wikimedia Commons")
 
 ## 為什麼這個企劃讓人期待
 
@@ -93,8 +91,6 @@ cover:
 
 ### 體熊專科 Major in Body Bear（器樂場）
 
-![大象體操演出現場](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Elephant_Gym_03.jpg/960px-Elephant_Gym_03.jpg "大象體操在西雅圖 The Crocodile 演出 | 攝影：David Lee | CC BY 2.0 via Wikimedia Commons")
-
 體熊專科是台灣獨立音樂圈中以現場演奏能量聞名的樂團，風格融合 post-rock 與 math rock 元素。他們的演出以強烈的動態對比著稱，從極安靜到爆發的轉換非常有張力。作為器樂場的開場嘉賓，跟大象體操的純演奏曲目搭配起來會非常合拍。
 
 ### 我是機車少女 i'mdifficult（人聲場）
@@ -120,7 +116,5 @@ cover:
 久等了，現場見。
 
 ---
-
-*演出照片由攝影師 [David Lee](https://www.flickr.com/photos/davidjlee/) 拍攝，授權條款為 [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)，取自 [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Elephant_Gym)。*
 
 *演出資訊來源：大象體操官方社群公告。*
