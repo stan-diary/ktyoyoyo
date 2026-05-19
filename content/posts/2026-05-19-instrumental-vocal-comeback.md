@@ -1,0 +1,121 @@
+---
+title: "大象體操復團！《Instrumental / Vocal》器樂＋人聲雙專場完整資訊"
+date: 2026-05-19T18:00:00+08:00
+draft: false
+slug: "instrumental-vocal-comeback"
+tags:
+  - 大象體操
+  - Elephant Gym
+  - 演唱會
+  - The Wall
+  - LIVE WAREHOUSE
+  - 體熊專科
+  - 我是機車少女
+  - 售票資訊
+categories:
+  - 音樂
+  - 追星
+  - 演出資訊
+description: "大象體操休團一年半後正式復團！首場演出以《Instrumental / Vocal》雙專場形式登場，台北高雄四場完整資訊整理。"
+cover:
+  image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Elephant_Gym_02.jpg/1280px-Elephant_Gym_02.jpg"
+  alt: "大象體操演出現場"
+  caption: "大象體操演出 | 攝影：David Lee | CC BY 2.0 via Wikimedia Commons"
+---
+
+## 他們回來了
+
+休團一年半，大象體操終於宣布復團，而且一回來就是一個讓人興奮的企劃——《Instrumental / Vocal》器樂＋人聲雙專場。
+
+這個概念很聰明：把樂團一直以來並行的兩種創作面向拆開，分成兩個不同的夜晚呈現。一邊是純粹讓節奏跟音色推進情緒的「器樂場」，另一邊是讓旋律與歌聲成為核心的「人聲場」。同一個大象體操，兩份完全不同的歌單。
+
+![大象體操全團演出](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Elephant_Gym_01.jpg/1280px-Elephant_Gym_01.jpg "大象體操演出 | 攝影：David Lee | CC BY 2.0 via Wikimedia Commons")
+
+## 為什麼這個企劃讓人期待
+
+如果你熟悉大象體操的作品，你會知道他們的音樂一直有兩條線在走：
+
+- **器樂面**：像〈Finger〉、〈Underwater〉、〈Anima〉這類純演奏曲目，靠節奏結構跟音色變化說故事
+- **人聲面**：像〈Witches〉、〈Shadow〉這類有歌詞的作品，旋律跟歌聲是情感的載體
+
+平常在專輯裡這兩種風格是交錯出現的，但這次他們決定把它們拆開，讓觀眾可以選擇自己想要的體驗——或者兩場都去（官方自己都說了：「絕對不是叫大家一定要兩場都來！」「不是嗎」）。
+
+## 演出資訊
+
+### 台北場
+
+| 場次 | 日期 | 場地 | 開場嘉賓 |
+|------|------|------|----------|
+| 器樂場 Instrumental Set | 7/24（五） | The Wall Live House | 體熊專科 |
+| 人聲場 Vocal Set | 7/25（六） | The Wall Live House | 我是機車少女 |
+
+- OPEN 19:00 / START 20:00
+
+### 高雄場
+
+| 場次 | 日期 | 場地 | 開場嘉賓 |
+|------|------|------|----------|
+| 器樂場 Instrumental Set | 7/31（五） | LIVE WAREHOUSE 小庫 | 體熊專科 |
+| 人聲場 Vocal Set | 8/14（五） | LIVE WAREHOUSE 小庫 | 我是機車少女 |
+
+- OPEN 19:30 / START 20:00
+
+## 票價資訊
+
+### 台北
+
+| 票種 | 價格 |
+|------|------|
+| 器樂/人聲雙日預售聯票 2-Day Pass | NT$1,700 |
+| 單日預售票 Pre-sale | NT$980 |
+| 單日現場票 At-the-door | NT$1,200 |
+
+### 高雄
+
+| 票種 | 價格 |
+|------|------|
+| 器樂/人聲雙日預售聯票 2-Day Pass | NT$1,600 |
+| 單日預售票 Pre-sale | NT$880 |
+| 單日現場票 At-the-door | NT$1,000 |
+
+## 售票時程
+
+- **官方會員購票**：5/15 - 5/20
+- **全面啟售**：5/21（四）18:00
+- **售票平台**：indievox
+
+## 開場嘉賓介紹
+
+### 體熊專科 Major in Body Bear（器樂場）
+
+![演唱會氛圍示意](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Elephant_Gym_05.jpg/960px-Elephant_Gym_05.jpg "大象體操演出現場 | 攝影：David Lee | CC BY 2.0 via Wikimedia Commons")
+
+體熊專科是台灣獨立音樂圈中以現場演奏能量聞名的樂團，風格融合 post-rock 與 math rock 元素。他們的演出以強烈的動態對比著稱，從極安靜到爆發的轉換非常有張力。作為器樂場的開場嘉賓，跟大象體操的純演奏曲目搭配起來會非常合拍。
+
+### 我是機車少女 i'mdifficult（人聲場）
+
+我是機車少女是來自台北的實驗流行樂團，擁有鮮明的旋律線條跟迷人的氣質。他們的音樂融合了電子、流行與實驗元素，歌聲是作品中最核心的存在。作為人聲場的開場，跟大象體操有歌詞的作品放在一起，會是一個很有層次的夜晚。
+
+## 我的搶票策略
+
+說實話，看到這個消息的時候我整個人跳起來。以下是我的計畫：
+
+1. **兩場都去**——器樂跟人聲我都想聽，而且雙日聯票比較划算
+2. **台北場優先**——The Wall 的場地比較小，氣氛會更緊密
+3. **5/21 準時搶票**——會員購票期間已經過了，全面啟售就是決勝點
+
+如果你也想去，記得 5/21（四）18:00 準時上 indievox。這種小場地的票通常很快就沒了。
+
+## 復團的意義
+
+大象體操在 2023 年底完成了橫跨 23 個國家、60 場演出的世界巡迴之後選擇休團。一年半的時間，他們沉澱、創作，現在帶著全新單曲回來了。
+
+這次選擇用雙專場的形式復出，某種程度上也是在告訴大家：我們不一樣了，但我們還是大象體操。
+
+久等了，現場見。
+
+---
+
+*演出照片由攝影師 [David Lee](https://www.flickr.com/photos/davidjlee/) 拍攝，授權條款為 [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)，取自 [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Elephant_Gym)。*
+
+*演出資訊來源：大象體操官方社群公告。*
