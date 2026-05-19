@@ -19,7 +19,7 @@ categories:
 description: "大象體操休團一年半後正式復團！首場演出以《Instrumental / Vocal》雙專場形式登場，台北高雄四場完整資訊整理。"
 cover:
   image: ""
-  alt: ""
+  alt: "  ㄌ"
   caption: ""
 ---
 
