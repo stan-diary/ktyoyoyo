@@ -1,0 +1,48 @@
+- id: prev_page
+  translation: "上一頁"
+
+- id: next_page
+  translation: "下一頁"
+
+- id: read_time
+  translation:
+    one: "1 分鐘"
+    other: "{{ .Count }} 分鐘"
+
+- id: words
+  translation:
+    one: "字"
+    other: "{{ .Count }} 字"
+
+- id: toc
+  translation: "目錄"
+
+- id: translations
+  translation: "翻譯"
+
+- id: home
+  translation: "首頁"
+
+- id: search
+  translation: "搜尋"
+
+- id: share_on
+  translation: "分享到"
+
+- id: tags
+  translation: "標籤"
+
+- id: categories
+  translation: "分類"
+
+- id: no_results
+  translation: "找不到結果"
+
+- id: copy
+  translation: "複製"
+
+- id: copied
+  translation: "已複製！"
+
+- id: posts
+  translation: "文章"
