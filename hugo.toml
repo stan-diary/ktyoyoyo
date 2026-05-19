@@ -1,0 +1,48 @@
+baseURL = "https://stan-diary.github.io/ktyoyoyo/"
+languageCode = "zh-tw"
+title = "追星日記 | Elephant Gym & 張凱婷"
+theme = "PaperMod"
+
+[params]
+  author = "Stan"
+  description = "一個關於大象體操與張凱婷的追星紀錄"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  defaultTheme = "auto"
+
+[params.homeInfoParams]
+  Title = "追星日記"
+  Content = "記錄每一次被大象體操與張凱婷圈粉的瞬間"
+
+[[params.socialIcons]]
+  name = "instagram"
+  url = "https://www.instagram.com/ktyoyoyo/"
+
+[[params.socialIcons]]
+  name = "threads"
+  url = "https://www.threads.com/@ktyoyoyo"
+
+[menu]
+[[menu.main]]
+  identifier = "posts"
+  name = "文章"
+  url = "/posts/"
+  weight = 10
+
+[[menu.main]]
+  identifier = "tags"
+  name = "標籤"
+  url = "/tags/"
+  weight = 20
+
+[[menu.main]]
+  identifier = "categories"
+  name = "分類"
+  url = "/categories/"
+  weight = 30
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
