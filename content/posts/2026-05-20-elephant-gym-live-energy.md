@@ -50,7 +50,7 @@ cover:
 
 ## 為什麼 Math Rock 適合現場
 
-![大象體操舞台互動](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Elephant_Gym_05.jpg/960px-Elephant_Gym_05.jpg "大象體操舞台演出 | 攝影：David Lee | CC BY 2.0 via Wikimedia Commons")
+![大象體操舞台互動](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Elephant_Gym_03.jpg/960px-Elephant_Gym_03.jpg "大象體操在西雅圖演出 | 攝影：David Lee | CC BY 2.0 via Wikimedia Commons")
 
 Math rock 的特色是複雜的節奏結構跟頻繁的拍號變化。在錄音室裡，這些可以被精確地編排；但在現場，每一次成功的轉換都是三個人即時溝通的結果。
 

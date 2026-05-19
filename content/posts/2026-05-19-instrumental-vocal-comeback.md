@@ -82,13 +82,18 @@ cover:
 
 - **官方會員購票**：5/15 - 5/20
 - **全面啟售**：5/21（四）18:00
-- **售票平台**：indievox
+
+### 🎫 直接買票！
+
+👉 **[點這裡直接購票 — indievox 大象體操 Instrumental / Vocal](https://www.indievox.com/activity/detail/26_iv0406095)** 👈
+
+不用找了，上面這個連結就是購票頁面。5/21 下午六點開賣，建議提前註冊好 indievox 帳號、綁定付款方式，開賣的時候直接衝就對了。這種小場地的票不會等你的！
 
 ## 開場嘉賓介紹
 
 ### 體熊專科 Major in Body Bear（器樂場）
 
-![演唱會氛圍示意](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Elephant_Gym_05.jpg/960px-Elephant_Gym_05.jpg "大象體操演出現場 | 攝影：David Lee | CC BY 2.0 via Wikimedia Commons")
+![大象體操演出現場](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Elephant_Gym_03.jpg/960px-Elephant_Gym_03.jpg "大象體操在西雅圖 The Crocodile 演出 | 攝影：David Lee | CC BY 2.0 via Wikimedia Commons")
 
 體熊專科是台灣獨立音樂圈中以現場演奏能量聞名的樂團，風格融合 post-rock 與 math rock 元素。他們的演出以強烈的動態對比著稱，從極安靜到爆發的轉換非常有張力。作為器樂場的開場嘉賓，跟大象體操的純演奏曲目搭配起來會非常合拍。
 
